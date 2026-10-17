@@ -13,6 +13,10 @@ AI エージェント（Claude Code など）と一緒に進めることを前�
 | [docs/pricing.md](docs/pricing.md) | 価格設定、コスト、損益分岐 |
 | [docs/legal/](docs/legal/) | 利用規約・プライバシーポリシー・特商法表記の雛形（公開前に要確認） |
 | [docs/launch-checklist.md](docs/launch-checklist.md) | 公開前チェックリスト |
+| [docs/metrics.md](docs/metrics.md) | 追う指標としきい値（公開後） |
+| [docs/feedback.md](docs/feedback.md) | ユーザーの声の蓄積と判断（公開後） |
+| [docs/runbook.md](docs/runbook.md) | 障害・決済・問い合わせの対応手順（公開後） |
+| [CHANGELOG.md](CHANGELOG.md) | ユーザー向けの変更履歴 |
 | [ROADMAP.md](ROADMAP.md) | マイルストーンと進捗 |
 | [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) | バグ報告・機能要望の Issue テンプレート |
 | [docs/design/_template.md](docs/design/_template.md) | 設計書のテンプレート |

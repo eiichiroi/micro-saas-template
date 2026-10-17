@@ -64,6 +64,7 @@
 - [ ] 👤 LP・スクリーンショット・説明文の作成
 - [ ] 👤 ストア申請（Chrome ウェブストア／Shopify App Store など）
 - [ ] 本番環境の構築、エラー監視の導入
+- [ ] 👤 運用手順書の記入（[docs/runbook.md](docs/runbook.md)）
 - [ ] 👤 公開前チェックリストの全項目を確認（[docs/launch-checklist.md](docs/launch-checklist.md)）
 
 ## M5：ローンチ・集客
@@ -71,8 +72,10 @@
 完了条件：最初の10人の利用者を獲得している
 
 - [ ] 👤 ローンチ告知（X、コミュニティ、Qiita/Zenn など）
-- [ ] 👤 最初の利用者へのフィードバック収集
+- [ ] 👤 追う指標としきい値の決定（[docs/metrics.md](docs/metrics.md)）
+- [ ] 👤 最初の利用者へのフィードバック収集（記録：[docs/feedback.md](docs/feedback.md)）
 - [ ] 👤 フィードバックの整理と次の改善候補の洗い出し
+- [ ] 初回リリースの変更履歴を記入（[CHANGELOG.md](CHANGELOG.md)）
 
 ## やらないこと・後回し
 
