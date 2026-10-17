@@ -9,7 +9,12 @@ AI エージェント（Claude Code など）と一緒に進めることを前�
 |---|---|
 | [docs/project.md](docs/project.md) | 企画書（誰の何を解決するか、MVP の範囲、価格、集客） |
 | [docs/validation.md](docs/validation.md) | 課題検証の記録（ヒアリング、仮説の成否） |
+| [docs/decisions.md](docs/decisions.md) | 事業・方針レベルの意思決定ログ |
+| [docs/pricing.md](docs/pricing.md) | 価格設定、コスト、損益分岐 |
+| [docs/legal/](docs/legal/) | 利用規約・プライバシーポリシー・特商法表記の雛形（公開前に要確認） |
+| [docs/launch-checklist.md](docs/launch-checklist.md) | 公開前チェックリスト |
 | [ROADMAP.md](ROADMAP.md) | マイルストーンと進捗 |
+| [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) | バグ報告・機能要望の Issue テンプレート |
 | [docs/design/_template.md](docs/design/_template.md) | 設計書のテンプレート |
 | [AGENTS.md](AGENTS.md) | AI エージェント向けのルール（`CLAUDE.md` から読み込まれる） |
 | [.env.example](.env.example) | 必要な環境変数の一覧 |
